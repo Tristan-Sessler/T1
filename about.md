@@ -5,9 +5,7 @@ permalink: /about/
 ---
 Tristan Sessler is a 17 year old currently pursuing his passion for programming.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+This websites source code can be found at Github.
 
 You can find the source code for Jekyll at
 {% include icon-github.html username="jekyll" %} /
