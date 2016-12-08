@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Interview Creative Piece"
-date:   2016-11-30
-categories: Interview
+title:  "Grizzle Trend Introduction"
+date:   2016-12-13
+categories: Blog
 ---
-Hello potential employeer. I created this basic site to hopefully to show that I have experience in the web development sector.
+Welcome to the new Grizzle Trend blog website! This website aims to be a platform for Grizzle Trend innovators to be able to blog about their work, and the experience of being noticed by Grizzle Trend.
